@@ -1,0 +1,5 @@
+print("Please enter the first number: ")
+first_num = gets()
+print("Please enter the second number: ")
+second_num = gets()
+puts("The sum of two numbers is: #{first_num + second_num}")
